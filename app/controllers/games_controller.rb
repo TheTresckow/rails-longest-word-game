@@ -31,3 +31,4 @@ class GamesController < ApplicationController
     session[:score] += @score
   end
 end
+
